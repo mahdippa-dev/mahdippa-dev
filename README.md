@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="Banner" width="100%">
-</p>
-
 <h1 align="center">Hi 👋, I'm Mahdi</h1>
 
 <h3 align="center">
@@ -103,7 +99,7 @@ A complete Django E-commerce project.
 <img src="https://img.shields.io/badge/Clinic-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="in/mahdi-pourpirali">
+<a href="www.linkedin.com/mahdi-pourpirali">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 

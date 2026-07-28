@@ -45,7 +45,7 @@ A real-world website developed for an optometry clinic using Django.
 
 A responsive task management application built using Vanilla JavaScript.
 
-🔗 **Repository:** YOUR_TODO_REPO
+🔗 **Repository:** https://github.com/mahdippa-dev/todo-list
 
 ---
 

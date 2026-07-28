@@ -34,7 +34,7 @@ Learning every day and creating projects that solve real problems.
 
 A real website developed for an optometry clinic.
 
-🔗 Live Website: eynak-noora.ir
+🔗 Live Website: https://eynak-noora.ir/
 
 ---
 
@@ -84,7 +84,6 @@ A complete e-commerce project currently in development.
 ## 🌐 Connect With Me
 
 - 🌍 Website: YOUR_PORTFOLIO
-- 🏥 Clinic: YOUR_CLINIC_URL
 - 💼 LinkedIn: YOUR_LINKEDIN
 - 📸 Instagram: YOUR_INSTAGRAM
 - ✈️ Telegram: YOUR_TELEGRAM

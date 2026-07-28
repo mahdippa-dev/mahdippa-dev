@@ -1,28 +1,35 @@
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_URL" alt="Banner" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Mahdi</h1>
-<h3 align="center">Backend Developer | Python & Django</h3>
+
+<h3 align="center">
+Backend Developer | Python & Django
+</h3>
 
 <p align="center">
 Building real-world web applications.<br>
-Learning every day and creating projects that solve real problems.
+Always learning. Always improving. 🚀
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🐍 Backend Developer focused on **Python & Django**
-- 🌱 Currently learning **JavaScript**, **Git**, and **React**
-- 💡 Interested in Web Development and Software Engineering
+- 🐍 Junior Backend Developer focused on **Python & Django**
+- 🌱 Currently learning **JavaScript**, **React**, and **Django REST Framework**
+- 💡 Passionate about Web Development & Software Engineering
 - 🚀 Building real-world projects to improve my skills
-- 🎯 Goal: Become a Professional Full-Stack Developer
+- 🎯 Goal: Become a Professional Full Stack Developer
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-<p align="left">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,django,git,github,bootstrap,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,python,django,postgresql,git,github,vscode,pycharm&perline=6"/>
 
 </p>
 
@@ -32,40 +39,43 @@ Learning every day and creating projects that solve real problems.
 
 ### 🏥 Optometry Clinic Website
 
-A real website developed for an optometry clinic.
+A real-world website developed for an optometry clinic using Django.
 
-🔗 Live Website: https://eynak-noora.ir/
+🔗 **Live:** YOUR_CLINIC_URL
 
 ---
 
-### ✅ JavaScript To-Do App
+### ✅ JavaScript ToDo App
 
-A simple task management application built using Vanilla JavaScript.
+A responsive task management application built using Vanilla JavaScript.
 
-🔗 Repository:
-https://github.com/mahdippa-dev/todo-list
+🔗 **Repository:** YOUR_TODO_REPO
 
 ---
 
 ### 💼 Personal Portfolio
 
-Currently under development.
+Modern portfolio website showcasing my projects and skills.
+
+🚧 Currently under development.
 
 ---
 
-### 🛒 Optical Store (Django)
+### 🛒 Optical Store
 
-A complete e-commerce project currently in development.
+A complete Django E-commerce project.
+
+🚧 In Progress...
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mahdippa-dev&show_icons=true&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mahdippa-dev&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdippa-dev&layout=compact&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdippa-dev&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -75,7 +85,7 @@ A complete e-commerce project currently in development.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=mahdippa-dev&theme=github-dark"/>
+<img src="https://streak-stats.demolab.com?user=mahdippa-dev&theme=github-dark&hide_border=true"/>
 
 </p>
 
@@ -83,10 +93,33 @@ A complete e-commerce project currently in development.
 
 ## 🌐 Connect With Me
 
-- 🌍 Website: YOUR_PORTFOLIO
-- 💼 LinkedIn: https://www.linkedin.com/in/mahdi-pourpirali
-- 📸 Instagram: YOUR_INSTAGRAM
-- ✈️ Telegram: https://t.me/mahdippa
+<p align="center">
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="YOUR_CLINIC_URL">
+<img src="https://img.shields.io/badge/Clinic-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_INSTAGRAM">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="YOUR_TELEGRAM">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mahdippa-dev">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
@@ -100,6 +133,6 @@ A complete e-commerce project currently in development.
 
 ---
 
-## 💬 Favorite Quote
+## 💬 Quote
 
-> *"Code. Learn. Build. Repeat."* 🚀
+> **"Code. Learn. Build. Repeat." 🚀**

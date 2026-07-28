@@ -84,9 +84,9 @@ A complete e-commerce project currently in development.
 ## 🌐 Connect With Me
 
 - 🌍 Website: YOUR_PORTFOLIO
-- 💼 LinkedIn:https://www.linkedin.com/in/mahdi-pourpirali
+- 💼 LinkedIn: https://www.linkedin.com/in/mahdi-pourpirali
 - 📸 Instagram: YOUR_INSTAGRAM
-- ✈️ Telegram: YOUR_TELEGRAM
+- ✈️ Telegram: https://t.me/mahdippa
 
 ---
 

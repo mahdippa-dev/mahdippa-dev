@@ -37,7 +37,7 @@ Always learning. Always improving. 🚀
 
 A real-world website developed for an optometry clinic using Django.
 
-🔗 **Live:** YOUR_CLINIC_URL
+🔗 **Live:** https://eynak-noora.ir/
 
 ---
 
@@ -93,10 +93,6 @@ A complete Django E-commerce project.
 
 <a href="YOUR_PORTFOLIO">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="YOUR_CLINIC_URL">
-<img src="https://img.shields.io/badge/Clinic-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="www.linkedin.com/in/mahdi-pourpirali">

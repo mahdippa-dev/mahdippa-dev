@@ -123,7 +123,6 @@ A complete Django E-commerce project.
 
 - Django REST Framework
 - React
-- PostgreSQL
 - Docker
 - Linux
 

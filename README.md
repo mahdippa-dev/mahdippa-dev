@@ -99,11 +99,11 @@ A complete Django E-commerce project.
 <img src="https://img.shields.io/badge/Clinic-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="in/mahdi-pourpirali">
+<a href="www.linkedin.com/in/mahdi-pourpirali">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_INSTAGRAM">
+<a href="https://www.instagram.com/mahdippa_dev/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 

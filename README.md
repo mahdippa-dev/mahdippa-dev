@@ -111,7 +111,7 @@ A complete Django E-commerce project.
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="YOUR_TELEGRAM">
+<a href="https://t.me/mahdippa">
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 

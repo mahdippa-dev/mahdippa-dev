@@ -43,7 +43,7 @@ A real website developed for an optometry clinic.
 A simple task management application built using Vanilla JavaScript.
 
 🔗 Repository:
-https://github.com/mahdippa-dev
+https://github.com/mahdippa-dev/todo-list
 
 ---
 

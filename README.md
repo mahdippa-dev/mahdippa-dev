@@ -41,10 +41,20 @@ A real-world website developed for an optometry clinic using Django.
 
 ---
 
+### 🎵 Cafe Music
+
+A responsive Persian music website built with HTML, CSS, and JavaScript.
+
+🔗 Live Demo: https://mahdippa-dev.github.io/cafe-music/
+
+🔗 Repository: https://github.com/mahdippa-dev/cafe-music
+
+---
+
 ### ✅ JavaScript ToDo App
 
 A responsive task management application built using Vanilla JavaScript.
-
+🔗 Live Demo: https://mahdippa-dev.github.io/todo-list/
 🔗 **Repository:** https://github.com/mahdippa-dev/todo-list
 
 ---
@@ -107,8 +117,8 @@ A complete Django E-commerce project.
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
-<a href="https://github.com/mahdippa-dev">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="mailto:pourpiralimahdi2@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -126,4 +136,4 @@ A complete Django E-commerce project.
 
 ## 💬 Quote
 
-> **"Code. Learn. Build. Repeat." 🚀**
+> **"Turning ideas into real-world web applications." 🚀**

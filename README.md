@@ -63,8 +63,8 @@ A responsive task management application built using Vanilla JavaScript.
 ### 💼 Personal Portfolio
 
 Modern portfolio website showcasing my projects and skills.
-
-🚧 Currently under development.
+🔗 Live Demo: https://mahdippa.ir/
+🔗 **Repository:** https://github.com/mahdippa-dev/portfolio
 
 ---
 
@@ -102,7 +102,7 @@ A complete Django E-commerce project.
 
 <p align="center">
 
-<a href="YOUR_PORTFOLIO">
+<a href="https://mahdippa.ir/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 

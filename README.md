@@ -64,6 +64,7 @@ A responsive Persian music website built with HTML, CSS, and JavaScript.
 ### ✅ JavaScript ToDo App
 
 A responsive task management application built using Vanilla JavaScript.
+
 🔗 Live Demo: https://mahdippa-dev.github.io/todo-list/
 
 🔗 **Repository:** https://github.com/mahdippa-dev/todo-list

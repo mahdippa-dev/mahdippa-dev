@@ -41,6 +41,14 @@ A real-world website developed for an optometry clinic using Django.
 
 ---
 
+### 💼 Personal Portfolio
+
+Modern portfolio website showcasing my projects and skills.
+🔗 Live: https://mahdippa.ir/
+🔗 **Repository:** https://github.com/mahdippa-dev/portfolio
+
+---
+
 ### 🎵 Cafe Music
 
 A responsive Persian music website built with HTML, CSS, and JavaScript.
@@ -57,14 +65,6 @@ A responsive task management application built using Vanilla JavaScript.
 🔗 Live Demo: https://mahdippa-dev.github.io/todo-list/
 
 🔗 **Repository:** https://github.com/mahdippa-dev/todo-list
-
----
-
-### 💼 Personal Portfolio
-
-Modern portfolio website showcasing my projects and skills.
-🔗 Live Demo: https://mahdippa.ir/
-🔗 **Repository:** https://github.com/mahdippa-dev/portfolio
 
 ---
 

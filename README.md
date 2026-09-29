@@ -6,7 +6,7 @@ Backend Developer | Python & Django
 
 <p align="center">
 Backend Developer passionate about building clean and reliable web applications.<br>
-Currently growing toward Full Stack Development. 🚀
+Currently growing toward Backend Development. 🚀
 </p>
 
 ---
@@ -14,10 +14,9 @@ Currently growing toward Full Stack Development. 🚀
 ## 👨‍💻 About Me
 
 - 🐍 Junior Backend Developer focused on **Python & Django**
-- 🌱 Currently learning **JavaScript**, **React**, and **Django REST Framework**
 - 💡 Passionate about Web Development & Software Engineering
 - 🚀 Building real-world projects to improve my skills
-- 🎯 Goal: Become a Professional Full Stack Developer
+- 🎯 Goal: Become a Professional Backend Developer
 
 ---
 
@@ -132,7 +131,6 @@ A complete Django E-commerce project.
 ## 📚 Currently Learning
 
 - Django REST Framework
-- React
 - Docker
 - Linux
 

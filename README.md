@@ -6,7 +6,7 @@ Backend Developer | Python & Django
 
 <p align="center">
 Backend Developer passionate about building clean and reliable web applications.<br>
-Currently growing toward Backend Development. 🚀
+Currently strengthening my backend development skills through real-world Django projects.🚀
 </p>
 
 ---

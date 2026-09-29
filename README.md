@@ -70,14 +70,6 @@ A responsive task management application built using Vanilla JavaScript.
 
 ---
 
-### 🛒 Optical Store
-
-A complete Django E-commerce project.
-
-🚧 In Progress...
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">

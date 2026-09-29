@@ -24,7 +24,7 @@ Currently growing toward Backend Development. 🚀
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,django,mysql,postgresql,git,github,vscode,pycharm&perline=6"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,django,postgresql,mysql,sqlite,git,github,vscode,pycharm&perline=6"/>
 
 </p>
 
